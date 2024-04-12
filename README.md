@@ -1,6 +1,6 @@
 # MIPS single cycle processor project
 
-On this project I worked with 4 other students. I was the software developer and my task was to implement in code, hardware schemes made by the hardware team. I used Verilog for this project. First we had a task to develop a general purpose processor and later we had to specialize it for a calculator by adding two complex arithmetic operations(we implemented factorial and exponentiation operations). Also the code written is for a single cycle processor.
+On this project I worked with 4 other students. I was the software developer and my task was to implement the code, based on hardware schematic diagram made by the hardware team. I used Verilog for this project. First we had a task to develop a general purpose processor and later we had to specialize it for a calculator by adding two complex arithmetic operations(we implemented factorial and exponentiation operations). Also the code written is for a single cycle processor.
 
 ## Requirements
 * Registers:
